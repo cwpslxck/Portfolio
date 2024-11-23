@@ -12,12 +12,8 @@ import wow from "@/assets/images/MoviesBooks/WOWS.jpg";
 import silicon from "@/assets/images/MoviesBooks/SILICONVALLEY.jpg";
 
 import SectionHeader from "@/components/SectionHeader";
-import { title } from "process";
-import ToolboxItems from "@/components/ToolboxItems";
 
 export const AboutSection = () => {
-  console.log(map.src);
-
   const Habbits = [
     {
       title: "Shiraz, Iran (Persia)",
