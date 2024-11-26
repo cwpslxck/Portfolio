@@ -14,8 +14,8 @@ const portfolioProjects = [
     title: "Print On Demond Dropshiping",
     results: [
       { title: "More Than 100 Sales on First Month" },
-      { title: "Traget Audience is Iranain People Between 17 - 25" },
-      { title: "More Than 5 Reels With More Than 50K Views" },
+      { title: "Traget Audience is Iranian People Between 17 - 25" },
+      { title: "More Than 5 Instagram Reels With More Than 50K Views" },
     ],
     link: "https://vlonefarsi.ir",
     image: vf,
@@ -25,9 +25,9 @@ const portfolioProjects = [
     year: "2023",
     title: "Online Magazine About Music",
     results: [
-      { title: "More Than 6 Months Activity on Telegram" },
+      { title: "More Than 6 Months on Telegram" },
       { title: "Many Viral Reels on Instagram" },
-      { title: "Lunching Website os on Progress" },
+      { title: "Lunching Website is on Progress" },
     ],
     link: "https://trxpfa.t.me",
     image: tx,

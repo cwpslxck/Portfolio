@@ -15,7 +15,7 @@ export const ContactSection = () => {
           </p>
         </div>
         <div>
-          <a href="https://KidAmiin.t.me">
+          <a href="https://cwpslxck.t.me">
             <p className="bg-black px-6 py-2 rounded-xl text-yellow-300 flex">
               <span>My Telegram</span>
               <ArrowUpRight />

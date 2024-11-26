@@ -43,7 +43,13 @@ export const HeroSection = () => {
         <div className="flex flex-col md:flex-row py-8 gap-4 text-lg">
           <button className="flex z-40 justify-center items-center gap-1 border border-yellow-500/40 px-5 py-2 rounded-xl">
             <ArrowDown className="size-5" />
-            <span>Download CV File</span>
+            <a
+              target="_blank"
+              about="Download CV Resume File"
+              href="/resume.pdf"
+            >
+              Download CV File
+            </a>
           </button>
           <button className="flex z-40 justify-center gap-1 px-5 py-2 rounded-xl bg-yellow-50 text-black hover:bg-white transition-colors">
             <a href="#collab">
